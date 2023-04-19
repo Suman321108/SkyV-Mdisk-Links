@@ -13,9 +13,9 @@ class Config(object):
     CHANNEL_ID = int(os.getenv("CHANNEL_ID", "--1001868677696")) 
     BOT_USERNAME = os.getenv("BOT_USERNAME", "SkyV_Mdisk_Search_bot)
     BOT_OWNER = int(os.getenv("BOT_OWNER", "1910055340"))
-#    OWNER_USERNAME = os.getenv("OWNER_USERNAME", "cyniteSupport")
+#    OWNER_USERNAME = os.getenv("OWNER_USERNAME", "Sk_Shivay")
     BACKUP_CHANNEL = os.getenv("BACKUP_CHANNEL", "SkyV_Movies")
-#    GROUP_USERNAME = os.getenv("GROUP_USERNAME")
+#    GROUP_USERNAME = os.getenv("SkyV_Movie_request_group")
     START_MSG = os.getenv("START_MSG", """**Hᴇʏ {}, 
 
 I ᴀᴍ Mᴏᴠɪᴇ Sᴇᴀʀᴄʜ Rᴏʙᴏᴛ 🔍.
