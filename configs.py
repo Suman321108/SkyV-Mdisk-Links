@@ -5,11 +5,11 @@ import os
 
 
 class Config(object):
-    API_ID = int(os.getenv("API_ID", "12124605"))
-    API_HASH = os.getenv("API_HASH", "5cf3577d85fd02286535ec2296934287")
+    API_ID = int(os.getenv("API_ID", "10222428)
+    API_HASH = os.getenv("API_HASH", "a0cb7eca567d5c62797558c377d37b7d")
     BOT_TOKEN = os.getenv("BOT_TOKEN", "5660564414:AAE2Hem9t5uouIXHlMMV6Rq-D8A8L1k5ku8")
-    BOT_SESSION_NAME = os.getenv("BOT_SESSION_NAME", "mdiskcynitebot")
-    USER_SESSION_STRING = os.getenv("USER_SESSION_STRING", "String")
+    BOT_SESSION_NAME = os.getenv("BOT_SESSION_NAME", "SkyV_Search_bot")
+    USER_SESSION_STRING = os.getenv("USER_SESSION_STRING", "1BVtsOJsBuwJyCiYLzU3wzwgn95MLKxLmh2NwE7CBMsAzXti9CwzvcHC2zhd9EtXPjFmyMdCZ4x_fNk6BO8J3myqQcaQdO-6toDQautSXSZ-Ne1g3xpBZe4bhsAm2-_diRZTQZtAo32t8w2EDBsHmkyXj6BOOiNTKcg4yo4y4WP1A1gOB5JMXvP8oxbobcj16ugWZTS1xWrv-jra46VLwxTdUyTfZb3t_s2jECmmfYkUfoZqce0xXxzspnqoydoAWD9i2VdENS6u6jhug20Mg4Tc23FMtskSO_ZidjqsbIzA7GxZnWn2rgopxiSrSl1D1GCwIScMQML1YWosrZJdEDaOV1ipaM0A=")
     CHANNEL_ID = int(os.getenv("CHANNEL_ID", "-1001558716347")) 
     BOT_USERNAME = os.getenv("BOT_USERNAME", "cynitemdiskbot")
     BOT_OWNER = int(os.getenv("BOT_OWNER", "1883570185"))
